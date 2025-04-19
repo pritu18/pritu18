@@ -31,4 +31,4 @@ A passionate developer who loves to build and explore new technologies.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritesh-shant-masih/)
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0d1117)]
+
